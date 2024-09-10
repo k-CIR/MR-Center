@@ -5,7 +5,7 @@
 ## Servers access
 
 * [Main information](servers-access/quickstart.md)
-* [Log in to Alvik](servers-access/log-in-to-alvik.md)
+* [Connect to Alvik](servers-access/connect-to-alvik.md)
 
 ## Provided analyses
 
