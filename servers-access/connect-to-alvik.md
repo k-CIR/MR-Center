@@ -6,8 +6,6 @@ description: >-
 
 # Connect to Alvik
 
-The first time you connect you need to start a VNC server and configure your settings. The guide below explains the steps in detail.
-
 ## Connect to Alvik with TurboVNC
 
 1. **Download** and **install** the software here: [TurboVNC](https://www.turbovnc.org/)
@@ -23,3 +21,4 @@ The first time you connect you need to start a VNC server and configure your set
 You can log in to Alvik via terminal with the following command:
 
 `ssh`<mark style="color:purple;">`<username>`</mark>`@193.10.16.82`
+

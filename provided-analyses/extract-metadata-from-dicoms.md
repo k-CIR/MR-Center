@@ -1,5 +1,5 @@
 # Extract metadata from DICOMs
 
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
+To extract metadata from your DICOM files (they should be at _/dicom_), run the script `create_heuristic_heudiconv.sh`. This will generate a .tsv file for each DICOM in the _/dicom_ directory
 
 <img alt="" class="gitbook-drawing">
