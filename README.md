@@ -1,6 +1,6 @@
 # About
 
-&#x20;This repository contains the main documentation for the MR Center's users: how to access the MR Center's services and utilize the analysis tools provided by the center.&#x20;
+&#x20;This repository contains the [main documentation for the MR Center's users](https://github.com/k-CIR/MR-Center/wiki): how to access the MR Center's services and utilize the analysis tools provided by the center.&#x20;
 
 More information about the MR Center here:
 
