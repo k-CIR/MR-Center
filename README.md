@@ -1,22 +1,3 @@
----
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # About
 
 &#x20;This repository contains the main documentation for the MR Center's users: how to access the MR Center's services and utilize the analysis tools provided by the center.&#x20;
